@@ -1,3 +1,6 @@
+/*
+ * Program to calculate sum of two numbers without using + Operator.
+ */
 package day1.acadgild.com;
 
 import java.util.Scanner;

@@ -1,5 +1,8 @@
-package day1.acadgild.com;
+/**
+ * Program to swap two numbers without using third variable;
+ */
 
+package day1.acadgild.com;
 import java.util.Scanner;
 
 public class swaptwonumbers {
@@ -17,7 +20,7 @@ public class swaptwonumbers {
 		System.out.println("After Swapping:");
 		swap(a,b);
 		reader.close();
-	}
+		}
 
 	private static void swap(int a, int b) {
 		// TODO Auto-generated method stub
